@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CaeserCypherTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-30T20:18:54" hostname="DOUGSMSI" time="0.024">
+  <properties/>
+  <testcase name="encrypt()" classname="CaeserCypherTest" time="0.021"/>
+  <testcase name="decrypt()" classname="CaeserCypherTest" time="0.001"/>
+  <testcase name="keyFinder()" classname="CaeserCypherTest" time="0.001"/>
+  <system-out><![CDATA[This is a test file for MCO364
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
